@@ -4,7 +4,7 @@
 | 名称 | 描述 |
 |------|---------|
 | [AttributeCopyer](#attributecopyer) | 把父类转成子类对象 |
-| [ResponseUtil](#responseutil)    | 转成json时只转制定的字段|
+| [ResponseUtil](#responseutil)    | 对象转成json时只转指定的字段|
 
 
 ## AttributeCopyer
