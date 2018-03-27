@@ -17,7 +17,7 @@ public class ResponseUtil {
 				Method mf = clazz.getMethod("get" + upperHeadChar(filed));
 				map.put(filed, mf.invoke(t));
 			} catch (NoSuchMethodException e) {
-				System.out.println("×Ö¶Î" + filed + "²»´æÔÚ");
+				System.out.println("å­—æ®µ" + filed + "ä¸å­˜åœ¨");
 			} catch (Exception e) {
 				e.printStackTrace();
 			}
@@ -34,7 +34,7 @@ public class ResponseUtil {
 	}
 
 	/**
-	 * Ê××ÖÄ¸´óĞ´
+	 * é¦–å­—æ¯è½¬æˆå¤§å†™
 	 * 
 	 * @param in
 	 * @return
