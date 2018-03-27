@@ -3,8 +3,8 @@
 
 | 名称 | 描述 |
 |------|---------|
-| [AttributeCopyer](#attributeCopyer) | 把父类转成子类对象 |
-| [ResponseUtil](#responseUtil)    | 转成json时只转制定的字段|
+| [AttributeCopyer](#attributecopyer) | 把父类转成子类对象 |
+| [ResponseUtil](#responseutil)    | 转成json时只转制定的字段|
 
 
 ## AttributeCopyer
