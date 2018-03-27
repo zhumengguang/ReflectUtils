@@ -27,7 +27,7 @@ static Map<String, Object> getResultMap(T t, String[] fileds);
 //
 static List<Map<String, Object>> getResultMap(List<T> ts, String[] fileds)
 ```
-使用实例 
+使用示例：
 ```java
 //输出User部分属性
 User user = new User("1", "张三", 21, "男");
