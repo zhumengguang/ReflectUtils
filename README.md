@@ -1,10 +1,10 @@
 # ReflectUtils
 利用Java反射技术实现的一些工具类，目前提供有两个工具类：<br/>
 
-| 名称 | 描述 |
+| 名称 | 描述 | 查看源码 |
 |------|---------|
-| [AttributeCopyer](#attributecopyer) | 把父类转成子类对象 |
-| [ResponseUtil](#responseutil)    | 对象转成json时只转指定的字段|
+| [AttributeCopyer](#attributecopyer) | 把父类转成子类对象 | [查看源码](https://github.com/whvcse/ReflectUtils/blob/master/AttributeCopyer.java) |
+| [ResponseUtil](#responseutil)    | 对象转成json时只转指定的字段| [查看源码](https://github.com/whvcse/ReflectUtils/blob/master/ResponseUtil.java) |
 
 
 ## AttributeCopyer
